@@ -3,6 +3,5 @@ h3{
     color: black !important;
 }
 canvas{
-    border: 4px;
-    background-color: black;
+    border: 4px black solid;
 }
